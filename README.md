@@ -3,7 +3,7 @@
 **One-liner:** From 12k+ climbing blog posts to a structured dataset of 4k multi-pitch routes enriched with attributes, maps, and recommendations.
 
 ## Context
-This project was developed during the **Data Science Bootcamp at CodeOp** together with Maria <surname>.  
+This project was developed during the **Data Science Bootcamp at CodeOp** together with Maria Salvany.  
 Motivation: climbers often rely on fragmented blog posts for route information. Our goal was to centralize this knowledge into a structured, searchable dataset.
 
 ## Dataset
@@ -24,9 +24,14 @@ Motivation: climbers often rely on fragmented blog posts for route information. 
 - **Visualization:** Folium maps  
 - **Environment:** Google Colab, Python
 
-## Demo
-- 📊 Presentation slides: [FromChaosToCrux.pdf](docs/FromChaosToCrux.pdf)  
-- (Optional) add screenshots or a short GIF of the prototype
+## Documentation
+- 📊 Presentation slides: [FromChaosToCrux.pdf](docs/FromChaosToCrux.pdf)
+
+## Preview
+![Prototype Preview](docs/preview.png)
+  
+- ## Demo Video
+🎥 [Watch the demo of the advanced search engine for multipitch routes](docs/advanced_search_demo.mp4)
 
 ## Project Status & Future Work
 This repository is intended as a **showcase of our MVP**.  
