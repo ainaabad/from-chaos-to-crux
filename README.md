@@ -27,3 +27,20 @@ Motivation: climbers often rely on fragmented blog posts for route information. 
 ## Demo
 - 📊 Presentation slides: [FromChaosToCrux.pdf](docs/FromChaosToCrux.pdf)  
 - (Optional) add screenshots or a short GIF of the prototype
+
+## Project Status & Future Work
+This repository is intended as a **showcase of our MVP**.  
+It contains the project presentation and documentation, but **not the full codebase**.  
+
+### Current Status
+- ✅ Data scraped and processed (12k blog posts → 4k unique routes)  
+- ✅ Structured dataset with 15+ attributes per route  
+- ✅ Sentiment analysis performed on blog text  
+- ✅ Prototype search engine with filters, maps, and geolocation  
+- ✅ Presentation slides available  
+
+### Future Work
+- 🚀 Develop a web application for real-world use  
+- 🧹 Expand and refine route data  
+- 🗂️ Improve user interface and recommendation features  
+- 🔒 Keep the full pipeline private until a public release
